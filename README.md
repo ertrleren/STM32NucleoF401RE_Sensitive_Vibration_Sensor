@@ -30,10 +30,16 @@ Your project uses important peripherals such as ADC and UART. ADC and UART are i
 Your project is an open source project. Open source projects give developers more flexibility.</b>
 
 <h2>Required Equipment</h2>
-<img src="https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Vibration_Sensor/assets/98084030/10c8da88-c6e0-47c9-9bda-014d660d565f" height="250" width="250">
-<h3>STM32 NUCLEO F401RE</h3>
-<img src="https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Vibration_Sensor/assets/98084030/a771288d-9fd9-4fce-ad4d-bc12159a80b1" height="250" width="300">
-<h3>801S VIBRATION SENSOR</h3>
+  <div class="row">
+    <div class="col-md-6">
+      <h3>STM32 NUCLEO F401RE</h3>
+      <img src="https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Vibration_Sensor/assets/98084030/10c8da88-c6e0-47c9-9bda-014d660d565f" alt="STM32 NUCLEO F401RE" height="250" width="250">
+    </div>
+    <div class="col-md-6">
+      <h3>801S Vibration Sensor</h3>
+      <img src="https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Vibration_Sensor/assets/98084030/a771288d-9fd9-4fce-ad4d-bc12159a80b1" alt="801S Vibration Sensor" height="250" width="300">
+    </div>
+  </div>
 
 
 
