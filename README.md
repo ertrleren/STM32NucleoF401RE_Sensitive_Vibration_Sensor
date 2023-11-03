@@ -7,19 +7,22 @@
 Initialization of ADC and UART: In this step, the necessary settings for ADC and UART are made.
 Reading data from the vibration sensor: The ADC converts the analog voltage from the vibration sensor to a digital value.
 Converting the vibration value to Hertz: The value read from the ADC is converted to a vibration value in Hertz.
-Transmission of the vibration value over UART: The vibration value is transmitted using the serial communication port over UART.
-The project works as follows:
+
+<h2>Transmission of the vibration value over UART: The vibration value is transmitted using the serial communication port over UART.
+The project works as follows:</h2>
 
 After the microcontroller is initialized, the ADC and UART are initialized.
 The microcontroller uses the ADC to read data from the vibration sensor.
 The read value is converted to a vibration value in Hertz.
 The vibration value is transmitted using the serial communication port over UART.
-The project can be used in the following applications:
+
+<h2>The project can be used in the following applications:</h2>
 
 Monitoring the vibration of machines and equipment
 Earthquake detection systems
 Monitoring the vibration of motor vehicles
-Advantages of your project:
+
+<h2>Advantages of your project:</h2>
 
 Your project is a simple application that reads data from a vibration sensor and transmits it over UART.
 Your project uses an STM32F4 microcontroller. STM32F4 microcontrollers are powerful and versatile microcontrollers.
