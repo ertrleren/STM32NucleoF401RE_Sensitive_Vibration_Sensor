@@ -28,3 +28,7 @@ Your project is a simple application that reads data from a vibration sensor and
 Your project uses an STM32F4 microcontroller. STM32F4 microcontrollers are powerful and versatile microcontrollers.
 Your project uses important peripherals such as ADC and UART. ADC and UART are important peripherals used in many different applications.
 Your project is an open source project. Open source projects give developers more flexibility.</b>
+
+<h2>Required Equipment</h2>
+![2394223-40](https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Vibration_Sensor/assets/98084030/10c8da88-c6e0-47c9-9bda-014d660d565f)
+
