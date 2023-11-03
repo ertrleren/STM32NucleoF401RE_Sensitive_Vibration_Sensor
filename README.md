@@ -34,5 +34,5 @@ Your project is an open source project. Open source projects give developers mor
 <img src="https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Vibration_Sensor/assets/98084030/a771288d-9fd9-4fce-ad4d-bc12159a80b1" height="250" width="250">
 
 
-![614Ug96egML _AC_SL1100_](https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Vibration_Sensor/assets/98084030/a771288d-9fd9-4fce-ad4d-bc12159a80b1)
+
 
