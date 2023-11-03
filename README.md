@@ -30,5 +30,5 @@ Your project uses important peripherals such as ADC and UART. ADC and UART are i
 Your project is an open source project. Open source projects give developers more flexibility.</b>
 
 <h2>Required Equipment</h2>
-<img src="https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Vibration_Sensor/assets/98084030/10c8da88-c6e0-47c9-9bda-014d660d565f" >
+<img src="https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Vibration_Sensor/assets/98084030/10c8da88-c6e0-47c9-9bda-014d660d565f" height="150" width="150">
 
