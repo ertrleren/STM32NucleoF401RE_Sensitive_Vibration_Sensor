@@ -2,7 +2,7 @@
 
 <b>Your project is an STM32F4 microcontroller application that reads data from a vibration sensor and transmits it over UART. The data from the sensor is converted to a digital value using an ADC (analog-to-digital converter). This digital value is then transmitted using a UART (universal asynchronous receiver-transmitter).
 
-The project consists of the following steps:
+<h2>The project consists of the following steps:</h2>
 
 Initialization of ADC and UART: In this step, the necessary settings for ADC and UART are made.
 Reading data from the vibration sensor: The ADC converts the analog voltage from the vibration sensor to a digital value.
