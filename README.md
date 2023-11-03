@@ -1,6 +1,6 @@
 # STM32NucleoF401RE_Sensitive_Vibration_Sensor
 
-<b>Your project is an STM32F4 microcontroller application that reads data from a vibration sensor and transmits it over UART. The data from the sensor is converted to a digital value using an ADC (analog-to-digital converter). This digital value is then transmitted using a UART (universal asynchronous receiver-transmitter).
+<b>This project is an STM32F4 microcontroller application that reads data from a vibration sensor and transmits it over UART. The data from the sensor is converted to a digital value using an ADC (analog-to-digital converter). This digital value is then transmitted using a UART (universal asynchronous receiver-transmitter).
 
 <h2>The project consists of the following steps:</h2>
 
@@ -24,10 +24,10 @@ Monitoring the vibration of motor vehicles
 
 <h2>Advantages of your project:</h2>
 
-Your project is a simple application that reads data from a vibration sensor and transmits it over UART.
-Your project uses an STM32F4 microcontroller. STM32F4 microcontrollers are powerful and versatile microcontrollers.
-Your project uses important peripherals such as ADC and UART. ADC and UART are important peripherals used in many different applications.
-Your project is an open source project. Open source projects give developers more flexibility.</b>
+This project is a simple application that reads data from a vibration sensor and transmits it over UART.
+This project uses an STM32F4 microcontroller. STM32F4 microcontrollers are powerful and versatile microcontrollers.
+This project uses important peripherals such as ADC and UART. ADC and UART are important peripherals used in many different applications.
+This project is an open source project. Open source projects give developers more flexibility.</b>
 
 <h2>Required Equipment</h2>
   <div class="row flex-column">
