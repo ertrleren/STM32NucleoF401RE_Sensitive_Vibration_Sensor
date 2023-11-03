@@ -31,6 +31,8 @@ Your project is an open source project. Open source projects give developers mor
 
 <h2>Required Equipment</h2>
 <img src="https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Vibration_Sensor/assets/98084030/10c8da88-c6e0-47c9-9bda-014d660d565f" height="250" width="250">
+<img src="https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Vibration_Sensor/assets/98084030/a771288d-9fd9-4fce-ad4d-bc12159a80b1" height="250" width="250">
 
 
+![614Ug96egML _AC_SL1100_](https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Vibration_Sensor/assets/98084030/a771288d-9fd9-4fce-ad4d-bc12159a80b1)
 
